@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
+- Hey, my name is David
+- Living and originally from France
 
-<!--
-**davidsangouard/davidsangouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
 
-Here are some ideas to get you started:
+- Software development
+- Disigner UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- LinkedIn: [David Sangouard](https://www.linkedin.com/in/david-sangouard-6193162a1/)
+- Instagram: [davld.sang](https://www.instagram.com/davld.sang)
+- E-mail: [david_sangouard@outlook.com](mailto:david_sangouard@outlook.com)
