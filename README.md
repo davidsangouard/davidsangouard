@@ -9,6 +9,6 @@
 
 ## Contact
 
-- LinkedIn: [David Sangouard](https://www.linkedin.com/in/david-sangouard-6193162a1/)
-- Instagram: [davld.sang](https://www.instagram.com/davld.sang)
+- LinkedIn: [David Sangouard](https://www.linkedin.com/in/david-sangouard/)
+- Instagram: [_davsng](https://www.instagram.com/_davsng)
 - E-mail: [david_sangouard@outlook.com](mailto:david_sangouard@outlook.com)
