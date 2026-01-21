@@ -5,9 +5,9 @@
 ## Interests
 
 - Software development
-- Disigner UI/UX
+- Designer UI/UX
 
-## Contact
+## Contacts
 
 - LinkedIn: [David Sangouard](https://www.linkedin.com/in/david-sangouard/)
 - Instagram: [_davsng](https://www.instagram.com/_davsng)
